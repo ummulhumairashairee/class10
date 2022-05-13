@@ -1,0 +1,19 @@
+div{
+    height: 300px;
+    width: 300px;
+   
+}
+.text1{
+    background-color: burlywood;
+    color: crimson;
+}
+h1{
+    color: darkblue;
+}
+.text2{
+    background-color: beige;
+    color: darkgreen;
+}
+.text2 h1{
+    color: tomato;
+}
